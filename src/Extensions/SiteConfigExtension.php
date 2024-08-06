@@ -1,6 +1,6 @@
 <?php
 
-namespace src\Extensions;
+namespace JobStructuredData;
 
 use SilverStripe\AssetAdmin\Forms\UploadField;
 use SilverStripe\Assets\Image;

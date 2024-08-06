@@ -1,6 +1,6 @@
 <?php
 
-namespace src\Extensions;
+namespace JobStructuredData;
 
 use SilverStripe\Control\Controller;
 use SilverStripe\Forms\NumericField;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace src\Extensions;
+namespace JobStructuredData;
 
 use Job\Job;
 use SilverStripe\Control\Controller;

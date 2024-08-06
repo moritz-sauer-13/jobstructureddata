@@ -1,1 +1,1 @@
-# jobstructureddata
+# Structured Data for Jobs

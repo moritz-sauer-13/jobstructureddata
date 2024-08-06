@@ -1,0 +1,16 @@
+---
+Name: jobstructureddata
+Only:
+  moduleexists: 'innomedia/job'
+After:
+  - '#JobModule'
+---
+Job\Job:
+  extensions:
+    - JobStructuredData\JobExtension
+Job\JobsPage:
+  extensions:
+    - JobStructuredData\JobsPageExtension
+Silverstripe\SiteConfig\SiteConfig:
+  extensions:
+    - JobStructuredData\SiteConfigExtension
